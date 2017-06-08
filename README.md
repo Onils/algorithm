@@ -1,3 +1,6 @@
 # algorithm
 some algorithm
-算法
+
+算法demo
+
+python for fun :)
